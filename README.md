@@ -6,4 +6,5 @@ Experimented with different Machine Learning Algorithms, Linear Regression, Ridg
 Compare the results to recommend the best Regression Mode.
 COLLAB NOTEBOOK LINK:
 https://colab.research.google.com/drive/1KY7MOBWloQZG1tQhuhmu6Z9R7j8maLeH?usp=sharing
-PROJECT PRESENTATION LIK:https://d.docs.live.net/39d94ef7a47961b8/Documents/REGRESSION%20PROJECT_Concrete%20Strength%20Prediction.pptx
+PROJECT PRESENTATION LINK:
+https://d.docs.live.net/39d94ef7a47961b8/Documents/REGRESSION%20PROJECT_Concrete%20Strength%20Prediction.pptx
